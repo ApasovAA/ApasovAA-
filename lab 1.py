@@ -92,4 +92,4 @@ for i in range(3):
     print(i+1, ':')
     print('N= ', N[i+1], '+-', N_p_ab[i+1])
     print('b= ', ba[i+1], '+-', ba_p[i+1])
-#
+#end;
